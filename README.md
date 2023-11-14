@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FettiWop
 - 👀 I’m interested in ... Security and Research
-- 🌱 I’m currently learning ... eJPT
-- 💞️ I’m looking to collaborate on ... not sure yet
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... PNPT, OSCP
+- 💞️ I’m looking to collaborate on ... ARM Sec Tooling Projects
+- 📫 How to reach me ... Probably not yet.
 
 <!---
 FettiWop/FettiWop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
